@@ -11,50 +11,6 @@
   <a href="https://github.com/upbv/mksddm/stargazers"><img src="https://img.shields.io/github/stars/upbv/mksddm?style=flat-square" alt="Stars"></a>
 </p>
 
-## Install
-
-Download the theme zip from the [Releases page](https://github.com/upbv/mksddm/releases):
-
-| Greeter | Asset |
-| ------- | ----- |
-| Qt6 (SDDM 0.21+) | `<theme>-qt6.tar.gz` |
-| Qt5 (SDDM 0.20 and older) | `<theme>-qt5.tar.gz` |
-
-```bash
-tar -xzf <theme>-qt5.tar.gz -C /usr/share/sddm/themes/
-```
-
-The repository also contains the theme sources, but cloning it is optional and much larger.
-
-To browse this index without downloading the full history:
-
-```bash
-git clone --depth 1 https://github.com/upbv/mksddm.git
-```
-
-Then pick the theme in **System Settings → Login Screen (SDDM)**, or write it manually:
-
-```bash
-sudo mkdir -p /etc/sddm.conf.d
-printf '[Theme]\nCurrent=<theme-name>\n' | sudo tee /etc/sddm.conf.d/theme.conf
-```
-
-`<theme-name>` must match `Theme-Id` in the theme's `metadata.desktop`.
-
-### Dependencies (Qt5)
-
-| Package | Needed for |
-| ------- | ---------- |
-| `qt5-declarative` | Qt Quick / QML runtime |
-| `qt5-quickcontrols` | Qt Quick Controls 1.x |
-| `qt5-quickcontrols2` | Qt Quick Controls 2.x |
-| `qt5-graphicaleffects` | `QtGraphicalEffects` |
-| `plasma-framework` | `org.kde.plasma.*` imports (Apple, WinXPconcept, ittu) — no longer in the official Arch repos; use the AUR or an archive |
-| SDDM with the Qt5 greeter (`sddm-greeter`) | SDDM 0.20 and older |
-
-> [!WARNING]
-> On a system that only provides the Qt6 greeter, use [`main`](https://github.com/upbv/mksddm/tree/main) instead. Selecting these themes there results in a black login screen.
-
 ## Themes
 
 Each entry links to its release asset. Qt6 versions are provided in the same releases. Click a name to download.
@@ -145,6 +101,51 @@ Each entry links to its release asset. Qt6 versions are provided in the same rel
     <a href="https://github.com/upbv/mksddm/releases/download/theme-QTStep/QTStepprodukt-qt5.tar.gz">QTStep produkt</a>
   </p>
 </details>
+
+> [!WARNING]
+> - These are Qt5-only themes; they require the Qt5 greeter (SDDM 0.20 and older).
+> - On a system that only provides the Qt6 greeter, use the [`main`](https://github.com/upbv/mksddm/tree/main) index and the `-qt6.tar.gz` assets instead.
+
+## Install
+
+Download the theme zip from the [Releases page](https://github.com/upbv/mksddm/releases):
+
+| Greeter | Asset |
+| ------- | ----- |
+| Qt6 (SDDM 0.21+) | `<theme>-qt6.tar.gz` |
+| Qt5 (SDDM 0.20 and older) | `<theme>-qt5.tar.gz` |
+
+```bash
+tar -xzf <theme>-qt5.tar.gz -C /usr/share/sddm/themes/
+```
+
+The repository also contains the theme sources, but cloning it is optional and much larger.
+
+To browse this index without downloading the full history:
+
+```bash
+git clone --depth 1 https://github.com/upbv/mksddm.git
+```
+
+Then pick the theme in **System Settings → Login Screen (SDDM)**, or write it manually:
+
+```bash
+sudo mkdir -p /etc/sddm.conf.d
+printf '[Theme]\nCurrent=<theme-name>\n' | sudo tee /etc/sddm.conf.d/theme.conf
+```
+
+`<theme-name>` must match `Theme-Id` in the theme's `metadata.desktop`.
+
+### Dependencies (Qt5)
+
+| Package | Needed for |
+| ------- | ---------- |
+| `qt5-declarative` | Qt Quick / QML runtime |
+| `qt5-quickcontrols` | Qt Quick Controls 1.x |
+| `qt5-quickcontrols2` | Qt Quick Controls 2.x |
+| `qt5-graphicaleffects` | `QtGraphicalEffects` |
+| `plasma-framework` | `org.kde.plasma.*` imports (Apple, WinXPconcept, ittu) — no longer in the official Arch repos; use the AUR or an archive |
+| SDDM with the Qt5 greeter (`sddm-greeter`) | SDDM 0.20 and older |
 
 ## Notes
 
