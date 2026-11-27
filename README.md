@@ -19,51 +19,6 @@
 | [`main`](https://github.com/upbv/mksddm/tree/main) (default) | **Qt6** — `sddm-greeter-qt6`, SDDM 0.21+, Plasma 6 | Qt6 theme index; download from Releases |
 | [`qt5`](https://github.com/upbv/mksddm/tree/qt5) | **Qt5** — `sddm-greeter`, SDDM 0.20 and older | Qt5 theme index; download from Releases |
 
-> [!WARNING]
-> A Qt5-only theme on a Qt6-only system gives a black login screen. Use `main` unless your SDDM provides the Qt5 greeter.
-
-## Install
-
-Download the theme zip from the [Releases page](https://github.com/upbv/mksddm/releases):
-
-| Greeter | Asset |
-| ------- | ----- |
-| Qt6 (SDDM 0.21+) | `<theme>-qt6.tar.gz` |
-| Qt5 (SDDM 0.20 and older) | `<theme>-qt5.tar.gz` |
-
-```bash
-tar -xzf <theme>-qt6.tar.gz -C /usr/share/sddm/themes/
-```
-
-To browse this index without downloading the full history:
-
-```bash
-git clone --depth 1 https://github.com/upbv/mksddm.git
-```
-
-Then pick the theme in **System Settings → Login Screen (SDDM)**, or write it manually:
-
-```bash
-sudo mkdir -p /etc/sddm.conf.d
-printf '[Theme]\nCurrent=<theme-name>\n' | sudo tee /etc/sddm.conf.d/theme.conf
-```
-
-`<theme-name>` must match `Theme-Id` in the theme's `metadata.desktop`.
-
-### Dependencies (Qt6)
-
-| Package | Needed for |
-| ------- | ---------- |
-| `qt6-declarative` | Qt Quick / QML runtime |
-| `qt6-5compat` | `Qt5Compat.GraphicalEffects` (ported themes) |
-| `libplasma` | Plasma Components 3 (Federation, ittu, WinXPconcept) |
-| `plasma5support` | battery data source (WinXPconcept, ittu) |
-| `plasma-workspace` or `qqc2-breeze-style` | Breeze components (Sequoia and Breeze-derived themes) |
-| `kirigami` | `Kirigami.Units` / `Kirigami.Icon` |
-| `qt6-virtualkeyboard` *(optional)* | on-screen keyboard |
-
-Package names are for Arch Linux; adjust them for your distribution.
-
 ## Themes
 
 Click a name to open its release or download the matching asset.
@@ -166,6 +121,52 @@ Click a name to open its release or download the matching asset.
     <a href="https://github.com/upbv/mksddm/releases/download/theme-QTStep/QTStepprodukt-qt6.tar.gz">QTStep produkt</a>
   </p>
 </details>
+
+> [!WARNING]
+> - Qt5-only themes need the Qt5 greeter; selecting one on a Qt6-only system results in a black login screen.
+> - Download the asset that matches your greeter: `-qt6.tar.gz` for Qt6 (SDDM 0.21+) and `-qt5.tar.gz` for Qt5 (SDDM 0.20 and older).
+
+## Install
+
+Download the theme zip from the [Releases page](https://github.com/upbv/mksddm/releases):
+
+| Greeter | Asset |
+| ------- | ----- |
+| Qt6 (SDDM 0.21+) | `<theme>-qt6.tar.gz` |
+| Qt5 (SDDM 0.20 and older) | `<theme>-qt5.tar.gz` |
+
+```bash
+tar -xzf <theme>-qt6.tar.gz -C /usr/share/sddm/themes/
+```
+
+To browse this index without downloading the full history:
+
+```bash
+git clone --depth 1 https://github.com/upbv/mksddm.git
+```
+
+Then pick the theme in **System Settings → Login Screen (SDDM)**, or write it manually:
+
+```bash
+sudo mkdir -p /etc/sddm.conf.d
+printf '[Theme]\nCurrent=<theme-name>\n' | sudo tee /etc/sddm.conf.d/theme.conf
+```
+
+`<theme-name>` must match `Theme-Id` in the theme's `metadata.desktop`.
+
+### Dependencies (Qt6)
+
+| Package | Needed for |
+| ------- | ---------- |
+| `qt6-declarative` | Qt Quick / QML runtime |
+| `qt6-5compat` | `Qt5Compat.GraphicalEffects` (ported themes) |
+| `libplasma` | Plasma Components 3 (Federation, ittu, WinXPconcept) |
+| `plasma5support` | battery data source (WinXPconcept, ittu) |
+| `plasma-workspace` or `qqc2-breeze-style` | Breeze components (Sequoia and Breeze-derived themes) |
+| `kirigami` | `Kirigami.Units` / `Kirigami.Icon` |
+| `qt6-virtualkeyboard` *(optional)* | on-screen keyboard |
+
+Package names are for Arch Linux; adjust them for your distribution.
 
 ## Changing the background
 
