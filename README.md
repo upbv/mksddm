@@ -131,7 +131,7 @@ Click a name to open its release or download the matching asset.
 Animated GIF avatars and transparent avatar backgrounds for Plasma 6:
 
 - [avatar-animation-bundle](https://github.com/upbv/mksddm/releases/tag/avatar) — system/user patches for the Plasma Users KCM, Kickoff, the logout screen and the Apple-Sequoia SDDM theme; includes transparent PNG/GIF backgrounds.
-- Sequoia Plasma 6 lock screen: [transparent (default)](https://github.com/upbv/plasma-lock/releases/tag/Apple-Sequoia-transparent) (`plasma-lock-transparent.tar.gz`) · [classic white disc](https://github.com/upbv/plasma-lock/releases/tag/Apple-Sequoia) (`plasma-lock.tar.gz`).
+- Sequoia Plasma 6 lock screen: [default (white disc)](https://github.com/upbv/plasma-lock/releases/tag/Apple-Sequoia) (`plasma-lock.tar.gz`) · [transparent (extra asset)](https://github.com/upbv/plasma-lock/releases/tag/Apple-Sequoia) (`plasma-lock-transparent.tar.gz`).
 
 ## Install
 
