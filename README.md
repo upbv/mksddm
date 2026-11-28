@@ -126,6 +126,13 @@ Click a name to open its release or download the matching asset.
 > - Qt5-only themes need the Qt5 greeter; selecting one on a Qt6-only system results in a black login screen.
 > - Download the asset that matches your greeter: `-qt6.tar.gz` for Qt6 (SDDM 0.21+) and `-qt5.tar.gz` for Qt5 (SDDM 0.20 and older).
 
+## Avatar
+
+Animated GIF avatars and transparent avatar backgrounds for Plasma 6:
+
+- [avatar-animation-bundle](https://github.com/upbv/mksddm/releases/tag/avatar) — system/user patches for the Plasma Users KCM, Kickoff, the logout screen and the Apple-Sequoia SDDM theme; includes transparent PNG/GIF backgrounds.
+- Sequoia Plasma 6 lock screen: [default](https://github.com/upbv/plasma-lock/releases/tag/Apple-Sequoia) (white disc) · [transparent](https://github.com/upbv/plasma-lock/releases/tag/Apple-Sequoia-transparent) (`plasma-lock-transparent.tar.gz`).
+
 ## Install
 
 Download the theme zip from the [Releases page](https://github.com/upbv/mksddm/releases):
