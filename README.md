@@ -25,71 +25,71 @@ Click a name to open its release or download the matching asset.
 
 <table>
   <tr>
-    <td align="center"><img src="./images/Apple-Sequoia-v1.Plasma6.jpg" width="420" alt="Apple-Sequoia-v1.Plasma6"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Apple-Sequoia-v1.Plasma6"><b>Apple-Sequoia-v1.Plasma6</b></a></td>
-    <td align="center"><img src="./images/Apple-Sonoma-v1.png" width="420" alt="Apple-Sonoma-v1"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Apple-Sonoma-v1"><b>Apple-Sonoma-v1</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Apple-Sequoia-v1.Plasma6.jpg" width="420" alt="Apple-Sequoia-v1.Plasma6"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Apple-Sequoia-v1.Plasma6"><b>Apple-Sequoia-v1.Plasma6</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Apple-Sonoma-v1.png" width="420" alt="Apple-Sonoma-v1"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Apple-Sonoma-v1"><b>Apple-Sonoma-v1</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/Apple-Sonoma-v2.png" width="420" alt="Apple-Sonoma-v2"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Apple-Sonoma-v2"><b>Apple-Sonoma-v2</b></a></td>
-    <td align="center"><img src="./images/Commonality.png" width="420" alt="Commonality"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Commonality"><b>Commonality</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Apple-Sonoma-v2.png" width="420" alt="Apple-Sonoma-v2"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Apple-Sonoma-v2"><b>Apple-Sonoma-v2</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Commonality.png" width="420" alt="Commonality"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Commonality"><b>Commonality</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/Federation.png" width="420" alt="Federation"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Federation"><b>Federation</b></a></td>
-    <td align="center"><img src="./images/Irixium.png" width="420" alt="Irixium"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Irixium"><b>Irixium</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Federation.png" width="420" alt="Federation"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Federation"><b>Federation</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Irixium.png" width="420" alt="Irixium"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Irixium"><b>Irixium</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/ittu.png" width="420" alt="ittu"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-ittu"><b>ittu</b></a></td>
-    <td align="center"><img src="./images/monochrome.png" width="420" alt="monochrome"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-monochrome"><b>monochrome</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/ittu.png" width="420" alt="ittu"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-ittu"><b>ittu</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/monochrome.png" width="420" alt="monochrome"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-monochrome"><b>monochrome</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/sddm-slice-1.5.1.png" width="420" alt="sddm-slice-1.5.1"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-sddm-slice-1.5.1"><b>sddm-slice-1.5.1</b></a></td>
-    <td align="center"><img src="./images/WinXPconcept.png" width="420" alt="WinXPconcept"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-WinXPconcept"><b>WinXPconcept</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/sddm-slice-1.5.1.png" width="420" alt="sddm-slice-1.5.1"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-sddm-slice-1.5.1"><b>sddm-slice-1.5.1</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/WinXPconcept.png" width="420" alt="WinXPconcept"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-WinXPconcept"><b>WinXPconcept</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/R1999_1.jpg" width="420" alt="R1999_1"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-R1999_1"><b>R1999_1</b></a></td>
-    <td align="center"><img src="./images/SilentSDDM-1.5.1.png" width="420" alt="SilentSDDM-1.5.1"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-SilentSDDM-1.5.1"><b>SilentSDDM-1.5.1</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/R1999_1.jpg" width="420" alt="R1999_1"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-R1999_1"><b>R1999_1</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/SilentSDDM-1.5.1.png" width="420" alt="SilentSDDM-1.5.1"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-SilentSDDM-1.5.1"><b>SilentSDDM-1.5.1</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/besot.jpg" width="420" alt="besot"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-besot"><b>besot</b></a></td>
-    <td align="center"><img src="./images/nier-automata.png" width="420" alt="nier-automata"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-nier-automata"><b>nier-automata</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/besot.jpg" width="420" alt="besot"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-besot"><b>besot</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/nier-automata.png" width="420" alt="nier-automata"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-nier-automata"><b>nier-automata</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/nightglowblue.png" width="420" alt="nightglowblue"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-nightglowblue"><b>nightglowblue</b></a></td>
-    <td align="center"><img src="./images/pixel-dusk-city.jpg" width="420" alt="pixel-dusk-city"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixel-dusk-city"><b>pixel-dusk-city</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/nightglowblue.png" width="420" alt="nightglowblue"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-nightglowblue"><b>nightglowblue</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/pixel-dusk-city.jpg" width="420" alt="pixel-dusk-city"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixel-dusk-city"><b>pixel-dusk-city</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/pixie.png" width="420" alt="pixie"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixie"><b>pixie</b></a></td>
-    <td align="center"><img src="./images/reactionary.png" width="420" alt="reactionary"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-reactionary"><b>reactionary</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/pixie.png" width="420" alt="pixie"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixie"><b>pixie</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/reactionary.png" width="420" alt="reactionary"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-reactionary"><b>reactionary</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/where_is_my_sddm_theme.png" width="420" alt="where_is_my_sddm_theme"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-where_is_my_sddm_theme"><b>where_is_my_sddm_theme</b></a></td>
-    <td align="center"><img src="./images/wuwa.jpg" width="420" alt="wuwa"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-wuwa"><b>wuwa</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/where_is_my_sddm_theme.png" width="420" alt="where_is_my_sddm_theme"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-where_is_my_sddm_theme"><b>where_is_my_sddm_theme</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/wuwa.jpg" width="420" alt="wuwa"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-wuwa"><b>wuwa</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/Ricciolo2.jpg" width="420" alt="Ricciolo2"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Ricciolo2"><b>Ricciolo2</b></a></td>
-    <td align="center"><img src="./images/sddm-catppuccin.png" width="420" alt="sddm-catppuccin"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-sddm-catppuccin"><b>sddm-catppuccin</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Ricciolo2.jpg" width="420" alt="Ricciolo2"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Ricciolo2"><b>Ricciolo2</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/sddm-catppuccin.png" width="420" alt="sddm-catppuccin"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-sddm-catppuccin"><b>sddm-catppuccin</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/simple.png" width="420" alt="simple"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-simple"><b>simple</b></a></td>
-    <td align="center"><img src="./images/QTStep.png" width="420" alt="QTStep"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-QTStep"><b>QTStep</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/simple.png" width="420" alt="simple"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-simple"><b>simple</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/QTStep.png" width="420" alt="QTStep"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-QTStep"><b>QTStep</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/Billing-Warnet-KDE-SDDM-main.png" width="420" alt="Billing-Warnet-KDE-SDDM-main"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Billing-Warnet-KDE-SDDM-main"><b>Billing-Warnet-KDE-SDDM-main</b></a></td>
-    <td align="center"><img src="./images/ExposeBlue.png" width="420" alt="ExposeBlue"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-ExposeBlue"><b>ExposeBlue</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Billing-Warnet-KDE-SDDM-main.png" width="420" alt="Billing-Warnet-KDE-SDDM-main"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Billing-Warnet-KDE-SDDM-main"><b>Billing-Warnet-KDE-SDDM-main</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/ExposeBlue.png" width="420" alt="ExposeBlue"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-ExposeBlue"><b>ExposeBlue</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/Genshin.jpg" width="420" alt="Genshin"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Genshin"><b>Genshin</b></a></td>
-    <td align="center"><img src="./images/laser-cats.jpg" width="420" alt="laser-cats"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-laser-cats"><b>laser-cats</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Genshin.jpg" width="420" alt="Genshin"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Genshin"><b>Genshin</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/laser-cats.jpg" width="420" alt="laser-cats"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-laser-cats"><b>laser-cats</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/pixel-hollowknight.jpg" width="420" alt="pixel-hollowknight"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixel-hollowknight"><b>pixel-hollowknight</b></a></td>
-    <td align="center"><img src="./images/pixel-munchlax.jpg" width="420" alt="pixel-munchlax"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixel-munchlax"><b>pixel-munchlax</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/pixel-hollowknight.jpg" width="420" alt="pixel-hollowknight"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixel-hollowknight"><b>pixel-hollowknight</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/pixel-munchlax.jpg" width="420" alt="pixel-munchlax"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixel-munchlax"><b>pixel-munchlax</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/pixel-night-city.jpg" width="420" alt="pixel-night-city"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixel-night-city"><b>pixel-night-city</b></a></td>
-    <td align="center"><img src="./images/sugar-light.png" width="420" alt="sugar-light"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-sugar-light"><b>sugar-light</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/pixel-night-city.jpg" width="420" alt="pixel-night-city"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-pixel-night-city"><b>pixel-night-city</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/sugar-light.png" width="420" alt="sugar-light"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-sugar-light"><b>sugar-light</b></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/Windows12-Sddm.png" width="420" alt="Windows12-Sddm"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Windows12-Sddm"><b>Windows12-Sddm</b></a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/upbv/mksddm/main/images/Windows12-Sddm.png" width="420" alt="Windows12-Sddm"><br><a href="https://github.com/upbv/mksddm/releases/tag/theme-Windows12-Sddm"><b>Windows12-Sddm</b></a></td>
     <td></td>
   </tr>
 </table>
