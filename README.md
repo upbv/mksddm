@@ -16,7 +16,7 @@
 
 | Branch | Greeter | Contents |
 | ------ | ------- | -------- |
-| [`main`](https://github.com/upbv/mksddm/tree/main) (default) | **Qt6** — `sddm-greeter-qt6`, SDDM 0.21+, Plasma 6 | Qt6 theme index; download from Releases |
+| [`main`](https://github.com/upbv/mksddm/tree/main) | **Qt6** — `sddm-greeter-qt6`, SDDM 0.21+, Plasma 6 | Qt6 theme index; download from Releases |
 | [`qt5`](https://github.com/upbv/mksddm/tree/qt5) | **Qt5** — `sddm-greeter`, SDDM 0.20 and older | Qt5 theme index; download from Releases |
 
 ## Themes
