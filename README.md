@@ -135,7 +135,21 @@ Animated GIF avatars and transparent avatar backgrounds for Plasma 6:
 
 ## Install
 
-Download the theme zip from the [Releases page](https://github.com/upbv/mksddm/releases):
+### Installer
+
+[`install.sh`](install.sh) lists every theme release, asks for a number, downloads the build that matches your greeter (Qt5 or Qt6) and activates the theme:
+
+```bash
+git clone --depth 1 https://github.com/upbv/mksddm.git
+cd mksddm
+./install.sh
+```
+
+The script refuses to run when SDDM is not installed or is not the active display manager. It re-runs itself with `sudo`, installs into `/usr/share/sddm/themes/` and sets `Current` in `/etc/sddm.conf.d/theme.conf`. It needs `bash`, `curl` and either `jq` or `python3`; set `GITHUB_TOKEN` if the unauthenticated GitHub API rate limit is hit.
+
+### Manual install
+
+Download the theme archive from the [Releases page](https://github.com/upbv/mksddm/releases):
 
 | Greeter | Asset |
 | ------- | ----- |
